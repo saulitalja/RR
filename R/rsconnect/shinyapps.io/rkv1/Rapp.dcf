@@ -1,0 +1,12 @@
+name: Rapp
+title: Rapp
+username:
+account: rkv1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1944853
+bundleId: 2877966
+url: https://rkv1.shinyapps.io/Rapp/
+when: 1584097726.3033
+asMultiple: FALSE
+asStatic: FALSE
